@@ -36,7 +36,9 @@ A production career ecosystem connecting CTU FIT students with recruiters. Unifi
 ### 🥗 [Supplement & Nutrition Planner](https://github.com/blahel/nutrition-planner) — Full-Stack Solo Project
 > *Spring Boot · PostgreSQL · Docker · GitLab CI/CD · JUnit 5 · Swagger*
 
-Built end-to-end solo. Includes a meal plan auto-generator that hits exact calorie and protein targets across 4 meal types, a 4-entity normalized schema with Many-to-Many favorites, and a JPQL aggregate query powering community nutrition stats. **134 automated tests** across unit, repository, and integration layers with ~85–90% line coverage.
+Architected and delivered a production-grade full-stack nutrition planning app end-to-end, an AI-style meal plan auto-generator: given a user’s calorie and protein targets distributes calories across 4 meal types, computes
+per-food gram portions from 5 food categories to hit exact macro goals via Spring Boot REST API, PostgreSQL
+database, Docker deployment, GitLab CI/CD pipeline, and a multi-page JS/HTML/CSS frontend. 
 
 ---
 
@@ -62,13 +64,6 @@ A complete 2-player strategy board game. Full game-state machine covering board 
 `Docker` `GitLab CI/CD` `Git` `GitHub` `Gradle` `Maven` `Swagger/OpenAPI` `SonarQube` `Linux`
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Emir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blahel&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blahel&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
