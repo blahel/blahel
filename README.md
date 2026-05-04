@@ -14,9 +14,10 @@
 
 ## About Me
 
-I'm a 3rd-year Software Engineering student at **Czech Technical University in Prague (CTU FIT)**, building production-grade systems with real users in mind.
+I'm a 3rd-year Software Engineering student at **Czech Technical University in Prague (CTU FIT)**, building production-grade systems with real users in mind. 
 
-I care about writing clean, well-tested code and delivering things end-to-end — from database design and REST APIs to frontend interfaces and CI/CD pipelines. Currently interested in **AI-integrated applications**, **scalable backend architecture**, and **full-stack engineering**.
+I care about writing clean, well-tested code and delivering things end-to-end, from database design and REST APIs to frontend interfaces and CI/CD pipelines. Currently interested in **AI-integrated applications**, **scalable backend architecture**, and **full-stack engineering**. A fast learner who thrives in team environments and takes ownership of complex features from day one.
+
 
 - 🎓 Bachelor's in Software Engineering — Expected June 2027
 - 🌍 Based in Prague, Czech Republic
