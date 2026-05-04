@@ -20,7 +20,7 @@ I care about writing clean, well-tested code and delivering things end-to-end �
 
 - 🎓 Bachelor's in Software Engineering — Expected June 2027
 - 🌍 Based in Prague, Czech Republic
-- 🗣️ Turkish (native) · English C1 · Spanish (conversational)
+- 🗣️ Turkish (native) · English C1 
 
 ---
 
