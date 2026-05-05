@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Emir 👋
+# Hey, I'm Emir 
 
 **Software Engineering Student @ CTU Prague · Full-Stack Developer**
 
@@ -25,7 +25,7 @@ I care about writing clean, well-tested code and delivering things end-to-end, f
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🤖 [Jobify CVUT](https://github.com/blahel/jobify-cvut) — AI-Powered Career Platform
 > *Team of 7 · Spring Boot · PostgreSQL · OpenAI GPT · Discord Bot · GitLab CI/CD*
