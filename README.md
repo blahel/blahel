@@ -30,16 +30,14 @@ I care about writing clean, well-tested code and delivering things end-to-end, f
 ### 🤖 [Jobify CVUT](https://github.com/blahel/jobify-cvut) — AI-Powered Career Platform
 > *Team of 7 · Spring Boot · PostgreSQL · OpenAI GPT · Discord Bot · GitLab CI/CD*
 
-A production career ecosystem connecting CTU FIT students with recruiters. Unified Spring Boot monolith powering a full web platform and a live Discord bot. I owned the entire student-facing frontend — CV Builder, application tracking dashboard, profile completeness scoring — and integrated the OpenAI GPT job-matching engine into a live recommendation feed.
+A production career ecosystem connecting CTU FIT students with recruiters. Unified Spring Boot monolith powering a full web platform and a live Discord bot. Contributed to the student-facing frontend, including CV Builder screens, application tracking views, profile-related UI, data validation support, and requirements analysis. Collaborated with the backend/database team to integrate user-facing workflows with the Spring Boot platform.
 
 ---
 
 ### 🥗 [Supplement & Nutrition Planner](https://github.com/blahel/nutrition-planner) — Full-Stack Solo Project
 > *Spring Boot · PostgreSQL · Docker · GitLab CI/CD · JUnit 5 · Swagger*
 
-Architected and delivered a production-grade full-stack nutrition planning app end-to-end, an AI-style meal plan auto-generator: given a user’s calorie and protein targets distributes calories across 4 meal types, computes
-per-food gram portions from 5 food categories to hit exact macro goals via Spring Boot REST API, PostgreSQL
-database, Docker deployment, GitLab CI/CD pipeline, and a multi-page JS/HTML/CSS frontend. 
+Architected and delivered a full-stack nutrition planning app end-to-end. The system generates meal plans from user calorie and protein targets, distributes calories across meal types, calculates food portions from multiple food categories, and persists plans through a Spring Boot REST API and PostgreSQL database. Includes Docker deployment, Swagger documentation, GitLab CI/CD, automated tests, and a multi-page HTML/CSS/JavaScript frontend. 
 
 ---
 
